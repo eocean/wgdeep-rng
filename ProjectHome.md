@@ -1,0 +1,1 @@
+This project contains all the code and example data to run the ICES 2010 WGDEEP stock assessment on Roundnose Grenadier in area Vb, VI, VII and XIIb
